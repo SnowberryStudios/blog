@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://SnowberryStudios.github.io/blog/will-it-snow-released/",
-            "url": "https://SnowberryStudios.github.io/blog/will-it-snow-released/",
+            "id": "https://SnowberryStudios.github.io/blog/cgj/",
+            "url": "https://SnowberryStudios.github.io/blog/cgj/",
             "title": "CGJ - Out Now!",
             "author": {
                 "name": "Lunadyn"
@@ -19,11 +19,11 @@
             "tags": [
             ],
             "date_published": "2021-03-04T15:40:14+11:00",
-            "date_modified": "2021-03-04T16:06:17+11:00"
+            "date_modified": "2021-03-04T16:39:21+11:00"
         },
         {
-            "id": "https://SnowberryStudios.github.io/blog/nico-released/",
-            "url": "https://SnowberryStudios.github.io/blog/nico-released/",
+            "id": "https://SnowberryStudios.github.io/blog/will-it-snow/",
+            "url": "https://SnowberryStudios.github.io/blog/will-it-snow/",
             "title": "Will It Snow? - Out Now!",
             "author": {
                 "name": "Lunadyn"
@@ -31,11 +31,11 @@
             "tags": [
             ],
             "date_published": "2021-03-04T15:40:03+11:00",
-            "date_modified": "2021-03-04T16:32:48+11:00"
+            "date_modified": "2021-03-04T16:39:10+11:00"
         },
         {
-            "id": "https://SnowberryStudios.github.io/blog/test/",
-            "url": "https://SnowberryStudios.github.io/blog/test/",
+            "id": "https://SnowberryStudios.github.io/blog/nico/",
+            "url": "https://SnowberryStudios.github.io/blog/nico/",
             "title": "Nico - Out Now!",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -45,7 +45,7 @@
             "tags": [
             ],
             "date_published": "2021-03-04T15:29:02+11:00",
-            "date_modified": "2021-03-04T16:05:51+11:00"
+            "date_modified": "2021-03-04T16:38:14+11:00"
         }
     ]
 }
